@@ -1,2 +1,3 @@
 # hello-world
 my first ever repository
+This is soething i have to add to learn all these...
